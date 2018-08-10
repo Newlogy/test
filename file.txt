@@ -1,2 +1,2 @@
-create this new file 2 !
+create this new file !
 (/c/Users/Me/.ssh/id_rsa)
